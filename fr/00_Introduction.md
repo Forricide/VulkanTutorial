@@ -1,4 +1,4 @@
->NOTICE: The English version of the tutorial has recently changed significantly (for the better) and these changes have not yet been applied to the French translation.
+> VEUILLEZ NOTER: la version anglaise de ce tutoriel a récemment changé considérablement (pour le mieux) et les changements n'ont pas encore été appliqué à la version française. 
 
 ## À propos
 
